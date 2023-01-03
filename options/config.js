@@ -31,17 +31,17 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621', '6285821310166']
+global.name = 'Leon (Owner)', // GNTI NAMA LU!
+global.creator = '𝗟𝗔𝗩𝗘𝗡𝗗𝗘𝗥 𝖬𝖣' // GANTI NAMA BOT LU BANH!
+global.owner = ['6287760550924'] // GNTI NOMOR LU!
+global.premium = ['6287760550924', '6287760550924']
  // ADD PREM YG LU MAU BANH!!
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
+global.pulsa = ['6287760550924'] // UBAH NOMOR YG AKTIF!
 global.botname = 'Created LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
-global.fake = 'LIAACANS BOT VERIFIED' // GNTI NMA BOT LU BANH!
+global.packname = 'Base Botz Lavender' // TRSERAH MO GANTI AP!
+global.author = 'Leon Nob' // GNTI NMA LU!
+global.fake = 'LAVENDER BOT VERIFIED' // GNTI NMA BOT LU BANH!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
